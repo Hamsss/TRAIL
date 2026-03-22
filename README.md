@@ -1,6 +1,5 @@
-# TRAIL
-
-Paper - TRAIL: Trajectory-Based Representation and Integration for Limiting Over-Smoothing
+# TRAIL: Trajectory-Based Representation and Integration for Limiting Over-Smoothing
+ 
 Link - https://link.springer.com/article/10.1007/s10994-026-07015-z
 
 In order to operate this code, you must first install the packages listed in the requirement.txt. However, since everyone has a different computer environment, we strongly recommend using the docker container to build a code-driven environment.
